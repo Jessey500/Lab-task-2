@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\Second_Task\Second_Task\bin\Debug\Second_Task.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Second_Task\Second_Task\obj\Debug\Second_Task.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Second_Task\Second_Task\bin\Debug\Second_Task.exe
+c:\users\user\documents\visual studio 2012\Projects\Second_Task\Second_Task\bin\Debug\Second_Task.pdb
+c:\users\user\documents\visual studio 2012\Projects\Second_Task\Second_Task\obj\Debug\Second_Task.exe
+c:\users\user\documents\visual studio 2012\Projects\Second_Task\Second_Task\obj\Debug\Second_Task.pdb
